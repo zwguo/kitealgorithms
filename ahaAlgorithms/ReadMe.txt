@@ -7,3 +7,7 @@
 ISBN：978-7-115-35459-4
 出版社：北京人民邮电出版社
 版次：2014年6月河北第1次印刷
+
+第4张介绍
+4.1 4.2 是深度优先 depth first search，dfs
+4.3 是广度有限 breadth first search， bfs
